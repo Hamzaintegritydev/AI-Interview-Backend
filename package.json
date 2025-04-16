@@ -1,0 +1,35 @@
+{
+  "name": "interview-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@deepgram/sdk": "^3.11.3",
+    "@google-apps/meet": "^0.6.0",
+    "@google-cloud/text-to-speech": "^6.0.1",
+    "@vapi-ai/api": "^0.1.0",
+    "@vapi-ai/web": "^2.2.5",
+    "axios": "^1.8.4",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "elevenlabs": "^1.56.1",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "googleapis": "^148.0.0",
+    "ibm-watson": "^10.0.0",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.0.0",
+    "socket.io": "^4.8.1",
+    "ws": "^8.18.1"
+  }
+}
