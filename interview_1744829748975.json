@@ -1,0 +1,39 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Mid-level",
+  "questions": [
+    "Hi [Candidate Name], thanks for joining me today. How's your day been so far?\n",
+    "Great! So, to kick things off, could you tell me a bit about what you've been working on recently that you found particularly interesting or challenging?\n",
+    "Okay, that's cool. Could you maybe pick one of those projects and tell me a little more about it? What was the project's main goal, and what was your role on the team?\n",
+    "Okay, interesting! So you're building an AI interview flow. That sounds pretty cutting-edge. Could you tell me a bit more about the technical aspects of that project? For example, what technologies or frameworks are you using on the front end, and how are you integrating with the AI components?\n",
+    "Okay, so you're using HS, Deepgram, and ElevenLabs by RTC. That's quite a stack! Could you walk me through how you're integrating those different technologies? Like, how does the data flow between the front end, Deepgram for voice recognition, and ElevenLabs for the AI voice? And what kind of data are you passing around at each stage?\n"
+  ],
+  "answers": [
+    "hello the day was good",
+    "yeah I am working on different projects",
+    "I am working on front and as a front and developer I will create AI interview flow",
+    "yeah I am using HS and deep gram 11 lab by RTC in this project"
+  ],
+  "timestamps": [
+    "2025-04-16T18:53:58.259Z",
+    "2025-04-16T18:54:10.958Z",
+    "2025-04-16T18:54:27.923Z",
+    "2025-04-16T18:54:49.650Z",
+    "2025-04-16T18:55:24.368Z"
+  ],
+  "interviewStartTime": "2025-04-16T18:53:55.558Z",
+  "interviewEndTime": "2025-04-16T18:55:44.967Z",
+  "transcript": "Interview for Software Engineer (Mid-level level)\nDate: 2025-04-16T18:53:55.558Z\nDuration: 1.82 minutes\n\nInterviewer: Hi [Candidate Name], thanks for joining me today. How's your day been so far?\n\nCandidate: hello the day was good\n\nInterviewer: Great! So, to kick things off, could you tell me a bit about what you've been working on recently that you found particularly interesting or challenging?\n\nCandidate: yeah I am working on different projects\n\nInterviewer: Okay, that's cool. Could you maybe pick one of those projects and tell me a little more about it? What was the project's main goal, and what was your role on the team?\n\nCandidate: I am working on front and as a front and developer I will create AI interview flow\n\nInterviewer: Okay, interesting! So you're building an AI interview flow. That sounds pretty cutting-edge. Could you tell me a bit more about the technical aspects of that project? For example, what technologies or frameworks are you using on the front end, and how are you integrating with the AI components?\n\nCandidate: yeah I am using HS and deep gram 11 lab by RTC in this project\n\nInterviewer: Okay, so you're using HS, Deepgram, and ElevenLabs by RTC. That's quite a stack! Could you walk me through how you're integrating those different technologies? Like, how does the data flow between the front end, Deepgram for voice recognition, and ElevenLabs for the AI voice? And what kind of data are you passing around at each stage?\n\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 5,
+    "strengths": [
+      "Unable to determine"
+    ],
+    "improvementAreas": [
+      "Unable to determine"
+    ],
+    "recommendation": "Consider",
+    "feedback": "Unable to generate detailed feedback"
+  },
+  "timestamp": "2025-04-16T18:55:48.975Z"
+}

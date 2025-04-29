@@ -1,0 +1,107 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Mid-level",
+  "questions": [
+    "Hi [Candidate Name], thanks for joining me today. How's your day been so far?\n",
+    "Great! To kick things off, could you tell me a bit about what you've been working on lately, maybe a project you're particularly proud of?\n",
+    "That sounds interesting! Tell me more about that AI interview floor real-time project. What was your specific role, and what were some of the biggest technical challenges you faced while building it?\n",
+    "Okay, you mentioned using React and Next.js in that AI interview floor project. Could you dive a little deeper into how you leveraged those technologies specifically? For example, what parts of the application did you build with React, and what benefits did Next.js bring to the table? Were there any specific React libraries or Next.js features that proved particularly useful?\n",
+    "Okay, you mentioned Material UI and Express.js alongside React and Next.js. So, to clarify, you used Express.js on the backend of the AI interview floor project? If so, could you describe how Express handled the real-time aspect of the application? For example, how did you manage data flow between the front-end built with React and the backend, and did you explore any specific real-time communication methods like WebSockets or Server-Sent Events in conjunction with Express?\n",
+    "Okay, so you were handling both the front-end and back-end, using MongoDB, and Express.js. That's great! Given you were using MongoDB, can you describe the schema you designed for storing the interview data? How did you structure the data to efficiently handle the real-time aspects and potential analysis by the AI later on? And were there any specific indexing strategies you used to optimize query performance with MongoDB, especially considering the real-time nature of the application?\n",
+    "Okay, so when designing the database for this project, what were the key considerations that drove your choices? For instance, what specific data points were most critical to capture from the interviews, and how did those requirements influence the structure of your MongoDB documents? And, thinking about the AI analysis you mentioned earlier, how did you ensure the data was structured in a way that would be easily consumable by the AI models?\n",
+    "Okay, so you're using Google's services for the interview portion itself. That makes sense. Are you leveraging any specific Google APIs or services within your application to enhance the interview process, perhaps for transcription, sentiment analysis, or something along those lines? If so, can you tell me about which APIs you're using and how they integrate with the rest of your architecture, especially considering the React front-end and Express/MongoDB back-end we discussed?\n"
+  ],
+  "answers": [
+    "hello the day was good so far",
+    "working on different project in this week like AI interview floor real time I created",
+    "yeah I am working on different of Technology in this project like react JS next",
+    "I'm using material express.js",
+    "yeah I am working on back and also you not just mongo DB Express JS",
+    "the database for this",
+    "I am using Google for interview"
+  ],
+  "timestamps": [
+    "2025-04-28T11:02:16.259Z",
+    "2025-04-28T11:02:28.427Z",
+    "2025-04-28T11:02:46.253Z",
+    "2025-04-28T11:02:59.467Z",
+    "2025-04-28T11:03:13.110Z",
+    "2025-04-28T11:03:27.337Z",
+    "2025-04-28T11:03:37.026Z",
+    "2025-04-28T11:03:46.972Z"
+  ],
+  "interviewStartTime": "2025-04-28T11:02:13.193Z",
+  "interviewEndTime": "2025-04-28T11:04:24.978Z",
+  "transcript": "Interview for Software Engineer (Mid-level level)\nDate: 2025-04-28T11:02:13.193Z\nDuration: 2.20 minutes\n\nInterviewer: Hi [Candidate Name], thanks for joining me today. How's your day been so far?\n\nCandidate: hello the day was good so far\n\nInterviewer: Great! To kick things off, could you tell me a bit about what you've been working on lately, maybe a project you're particularly proud of?\n\nCandidate: working on different project in this week like AI interview floor real time I created\n\nInterviewer: That sounds interesting! Tell me more about that AI interview floor real-time project. What was your specific role, and what were some of the biggest technical challenges you faced while building it?\n\nCandidate: yeah I am working on different of Technology in this project like react JS next\n\nInterviewer: Okay, you mentioned using React and Next.js in that AI interview floor project. Could you dive a little deeper into how you leveraged those technologies specifically? For example, what parts of the application did you build with React, and what benefits did Next.js bring to the table? Were there any specific React libraries or Next.js features that proved particularly useful?\n\nCandidate: I'm using material express.js\n\nInterviewer: Okay, you mentioned Material UI and Express.js alongside React and Next.js. So, to clarify, you used Express.js on the backend of the AI interview floor project? If so, could you describe how Express handled the real-time aspect of the application? For example, how did you manage data flow between the front-end built with React and the backend, and did you explore any specific real-time communication methods like WebSockets or Server-Sent Events in conjunction with Express?\n\nCandidate: yeah I am working on back and also you not just mongo DB Express JS\n\nInterviewer: Okay, so you were handling both the front-end and back-end, using MongoDB, and Express.js. That's great! Given you were using MongoDB, can you describe the schema you designed for storing the interview data? How did you structure the data to efficiently handle the real-time aspects and potential analysis by the AI later on? And were there any specific indexing strategies you used to optimize query performance with MongoDB, especially considering the real-time nature of the application?\n\nCandidate: the database for this\n\nInterviewer: Okay, so when designing the database for this project, what were the key considerations that drove your choices? For instance, what specific data points were most critical to capture from the interviews, and how did those requirements influence the structure of your MongoDB documents? And, thinking about the AI analysis you mentioned earlier, how did you ensure the data was structured in a way that would be easily consumable by the AI models?\n\nCandidate: I am using Google for interview\n\nInterviewer: Okay, so you're using Google's services for the interview portion itself. That makes sense. Are you leveraging any specific Google APIs or services within your application to enhance the interview process, perhaps for transcription, sentiment analysis, or something along those lines? If so, can you tell me about which APIs you're using and how they integrate with the rest of your architecture, especially considering the React front-end and Express/MongoDB back-end we discussed?\n\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 3,
+    "strengths": [
+      {
+        "strength": "Exposure to modern technologies",
+        "example": "The candidate mentioned working with React, Next.js, Express.js, and MongoDB, indicating familiarity with current web development technologies."
+      },
+      {
+        "strength": "Awareness of Full-Stack Development",
+        "example": "The candidate claimed to work on both front-end and back-end components, suggesting a Full-Stack understanding."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Lack of clarity and specificity",
+        "example": "The candidate's responses were often vague and lacked detail. For example, when asked about the AI interview floor project, the response was simply 'yeah I am working on different of Technology in this project like react JS next' without explaining how those technologies were used."
+      },
+      {
+        "area": "Insufficient technical depth",
+        "example": "The candidate failed to provide detailed explanations about the architecture or implementation of the project. For example, when asked about the MongoDB schema, the answer was 'the database for this' without any specific information."
+      },
+      {
+        "area": "Inability to articulate technical challenges and solutions",
+        "example": "The candidate did not describe any specific technical challenges faced or solutions implemented during the project. This makes it difficult to assess their problem-solving abilities."
+      },
+      {
+        "area": "Poor communication skills",
+        "example": "The candidate's language skills were limited, resulting in short, unclear, and sometimes grammatically incorrect responses. This made it difficult to understand their experience and expertise."
+      },
+      {
+        "area": "Unclear project ownership and impact",
+        "example": "The candidate's responses were vague about their specific role and contribution to the project. It's hard to discern what aspects of the project they were directly responsible for."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 2,
+      "analysis": "The candidate demonstrates a superficial awareness of technologies like React, Next.js, Express, and MongoDB, but lacks the depth of understanding expected for a mid-level Software Engineer. There is a significant lack of concrete examples and explanations of how these technologies were used in practice, and minimal evidence of problem-solving skills. The candidate failed to articulate the data structures used, how real-time functionality was implemented, or how Google APIs were integrated."
+    },
+    "communicationAssessment": {
+      "score": 1,
+      "analysis": "The candidate's communication skills are very weak. The responses are brief, unclear, and often grammatically incorrect. The candidate struggles to articulate technical concepts effectively. There is a notable lack of active listening, as evidenced by the frequent need for clarification and rephrasing of questions. The limited language proficiency significantly hinders the ability to accurately assess technical skills and experience."
+    },
+    "culturalFitAssessment": {
+      "score": 3,
+      "analysis": "Due to the limited and unclear responses, it's difficult to assess cultural fit accurately. Effective communication and collaboration are essential in most software engineering roles, and the candidate's current communication skills would present a significant challenge. It's hard to gauge whether the candidate aligns with typical company values of teamwork, innovation, and problem-solving, given the lack of detail provided in the responses."
+    },
+    "problemSolvingAssessment": {
+      "score": 2,
+      "analysis": "The candidate provides virtually no insight into their problem-solving approach. They do not describe any challenges they faced or the steps they took to overcome them. This lack of detail makes it impossible to assess their ability to analyze problems, generate solutions, and implement them effectively."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "The answer 'the database for this' when asked about the MongoDB schema.",
+        "impact": "Demonstrates a complete lack of understanding or inability to articulate the data modeling process."
+      },
+      {
+        "type": "negative",
+        "moment": "No answer provided when asked about specific Google APIs used.",
+        "impact": "Shows a lack of engagement or understanding of the question, further highlighting the lack of technical depth."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for your time, [Candidate Name]. While we appreciate your interest in the Software Engineer position, we won't be moving forward with your application at this time. During the interview, we found that the depth of your technical understanding and your communication skills did not align with the requirements of this mid-level role. Specifically, the responses lacked detailed explanations, and your descriptions of project architecture and implementation were limited. Additionally, your communication skills, including clarity and articulation, need improvement to effectively convey technical concepts and problem-solving approaches. We encourage you to continue developing your skills and seeking opportunities to gain more practical experience. We wish you the best in your job search.",
+    "developmentPlan": [
+      "Focus on building deeper technical knowledge in your chosen technologies. Work on personal projects that allow you to explore advanced features and implementation details.",
+      "Practice articulating your technical decisions clearly and concisely. Participate in technical discussions, write blog posts, or present your work to others to improve your communication skills.",
+      "Improve your English language skills, particularly your ability to explain technical concepts. Consider taking a language course or practicing with native speakers."
+    ]
+  },
+  "timestamp": "2025-04-28T11:04:33.608Z"
+}

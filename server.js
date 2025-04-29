@@ -214,6 +214,7 @@ app.post('/process-answer', async (req, res) => {
 });
 
 // Complete the interview and generate evaluation
+// Update this section in your complete-interview endpoint
 app.post('/complete-interview', async (req, res) => {
   // Add the final answer if provided
   if (req.body.finalAnswer) {
@@ -233,27 +234,55 @@ app.post('/complete-interview', async (req, res) => {
   }
   
   try {
-    // Generate evaluation
+    // Enhanced evaluation prompt with more detailed analysis requirements
     const evaluationPrompt = `
-    You are an expert interviewer evaluating a candidate for a ${currentInterviewData.jobPosition} position (${currentInterviewData.experienceLevel} level).
+    You are an expert interviewer and talent evaluator specializing in ${currentInterviewData.jobPosition} roles.
+    You have significant experience in identifying talent, evaluating technical and soft skills,
+    and providing actionable feedback to candidates.
     
-    Review the following interview transcript and provide:
-    1. An overall score from 1-10
-    2. Key strengths demonstrated in the interview
-    3. Areas for improvement
-    4. Final hiring recommendation (Reject, Consider, Strong Consider, Hire)
-    5. A paragraph of detailed feedback for the candidate
+    Review the following interview transcript for a ${currentInterviewData.jobPosition} position (${currentInterviewData.experienceLevel} level):
     
-    Interview Transcript:
     ${transcript}
+    
+    Provide a comprehensive evaluation including:
+    
+    1. An overall score from 1-10
+    2. Key strengths demonstrated during the interview (identify at least 3-5 specific strengths with examples)
+    3. Areas for improvement (identify at least 3-5 specific areas with examples from the interview)
+    4. Technical skill assessment (evaluate the candidate's technical knowledge as demonstrated in the interview)
+    5. Communication skills assessment (evaluate clarity, articulation, listening skills)
+    6. Cultural fit assessment (evaluate alignment with typical company values)
+    7. Problem-solving approach (analyze how the candidate approaches challenges)
+    8. Specific examples from the interview that stood out (both positive and negative)
+    9. Final hiring recommendation (Reject, Consider with Reservations, Consider, Strong Consider, Hire)
+    10. A detailed paragraph of personalized feedback for the candidate
+    11. Development plan with 3 specific recommendations for the candidate to improve
     
     Format your response in JSON with the following structure:
     {
       "score": number,
-      "strengths": ["strength1", "strength2", ...],
-      "improvementAreas": ["area1", "area2", ...],
+      "strengths": [{"strength": "string", "example": "string"}, ...],
+      "improvementAreas": [{"area": "string", "example": "string"}, ...],
+      "technicalAssessment": {
+        "score": number,
+        "analysis": "string"
+      },
+      "communicationAssessment": {
+        "score": number,
+        "analysis": "string"
+      },
+      "culturalFitAssessment": {
+        "score": number,
+        "analysis": "string"
+      },
+      "problemSolvingAssessment": {
+        "score": number,
+        "analysis": "string"
+      },
+      "standoutMoments": [{"type": "positive|negative", "moment": "string", "impact": "string"}, ...],
       "recommendation": "string",
-      "feedback": "paragraph with detailed analysis"
+      "feedback": "paragraph with detailed analysis",
+      "developmentPlan": ["recommendation1", "recommendation2", "recommendation3"]
     }
     `;
     
@@ -264,9 +293,17 @@ app.post('/complete-interview', async (req, res) => {
       },
       { headers: { 'Content-Type': 'application/json' } }
     );
+
     
     let evaluationText = extractTextFromResponse(apiResponse.data);
-    let evaluation;
+  
+    // Log the raw response for debugging
+    console.log("AI Response:", evaluationText);
+    
+    // Remove Markdown formatting (triple backticks)
+    evaluationText = evaluationText.replace(/```json\s*|\s*```/g, '');
+  
+    let evaluation = JSON.parse(evaluationText);
     
     try {
       evaluation = JSON.parse(evaluationText);
@@ -274,15 +311,33 @@ app.post('/complete-interview', async (req, res) => {
       console.error('Error parsing evaluation JSON:', e);
       evaluation = {
         score: 5,
-        strengths: ["Unable to determine"],
-        improvementAreas: ["Unable to determine"],
+        strengths: [{"strength": "Could not determine strengths", "example": "N/A"}],
+        improvementAreas: [{"area": "Could not determine improvement areas", "example": "N/A"}],
+        technicalAssessment: {
+          score: 5,
+          analysis: "Unable to generate technical assessment"
+        },
+        communicationAssessment: {
+          score: 5,
+          analysis: "Unable to generate communication assessment"
+        },
+        culturalFitAssessment: {
+          score: 5,
+          analysis: "Unable to generate cultural fit assessment"
+        },
+        problemSolvingAssessment: {
+          score: 5,
+          analysis: "Unable to generate problem-solving assessment"
+        },
+        standoutMoments: [{"type": "neutral", "moment": "Unable to determine standout moments", "impact": "N/A"}],
         recommendation: "Consider",
-        feedback: "Unable to generate detailed feedback"
+        feedback: "Unable to generate detailed feedback",
+        developmentPlan: ["Unable to generate development plan"]
       };
     }
     
-    // Generate audio for a thank you message
-    const thankYouMessage = "Thank you for completing this interview. Here is your evaluation.";
+    // Generate audio for a thank you message with evaluation preview
+    const thankYouMessage = "Thank you for completing this interview. I've prepared a comprehensive evaluation of your performance with specific strengths, areas for improvement, and a development plan to help you succeed in your next interview.";
     const audioBase64 = await generateSpeech(thankYouMessage);
     
     // Save interview data and evaluation to file
@@ -301,7 +356,7 @@ app.post('/complete-interview', async (req, res) => {
       transcript,
       evaluation,
       audio: audioBase64,
-      message: "Interview completed and evaluation stored successfully"
+      message: "Interview completed and detailed evaluation stored successfully"
     });
   } catch (error) {
     console.error('Error completing interview:', error.response?.data || error.message);

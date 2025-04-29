@@ -1,0 +1,98 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Hi [Candidate Name], thanks for joining me today! How's your day been so far?\n",
+    "Great! Anything interesting happen today that you'd like to share, or are you ready to jump right into talking about your background and the role?\n",
+    "That's great you're working on a software engineering project this week! Could you tell me a bit more about that project? What are you building, and what technologies are you using?\n",
+    "\"That sounds really interesting! A real-time AI interview flow is a pretty ambitious project. Could you elaborate a bit on what \"actress next years no dress\" means in the context of the technologies you're using? I'm not familiar with that particular combination. Are you perhaps referring to Next.js? And what role does that, along with any other technologies, play in building the real-time aspect of the interview flow and the AI functionality?\"\n",
+    "Okay, so you're using React and Next.js (\"Next chair\" I'm assuming is a typo). Can you tell me a bit more about how you're structuring the application? For example, are you using any particular state management libraries with React, and how is Next.js helping with things like routing or API interactions for the real-time AI functionality?\n"
+  ],
+  "answers": [
+    "the day was good so far",
+    "different thing interesting and this week I am working on project of software engineer",
+    "yes I am building real time AI interview flow and I am using the actress next years no dress and this project",
+    "yeah I am using the technology of react JS next chair"
+  ],
+  "timestamps": [
+    "2025-04-25T12:15:33.100Z",
+    "2025-04-25T12:15:45.434Z",
+    "2025-04-25T12:16:04.657Z",
+    "2025-04-25T12:16:25.825Z",
+    "2025-04-25T12:16:43.059Z"
+  ],
+  "interviewStartTime": "2025-04-25T12:15:29.580Z",
+  "interviewEndTime": "2025-04-25T12:16:48.164Z",
+  "transcript": "Interview for Software Engineer (Entry-level level)\nDate: 2025-04-25T12:15:29.580Z\nDuration: 1.31 minutes\n\nInterviewer: Hi [Candidate Name], thanks for joining me today! How's your day been so far?\n\nCandidate: the day was good so far\n\nInterviewer: Great! Anything interesting happen today that you'd like to share, or are you ready to jump right into talking about your background and the role?\n\nCandidate: different thing interesting and this week I am working on project of software engineer\n\nInterviewer: That's great you're working on a software engineering project this week! Could you tell me a bit more about that project? What are you building, and what technologies are you using?\n\nCandidate: yes I am building real time AI interview flow and I am using the actress next years no dress and this project\n\nInterviewer: \"That sounds really interesting! A real-time AI interview flow is a pretty ambitious project. Could you elaborate a bit on what \"actress next years no dress\" means in the context of the technologies you're using? I'm not familiar with that particular combination. Are you perhaps referring to Next.js? And what role does that, along with any other technologies, play in building the real-time aspect of the interview flow and the AI functionality?\"\n\nCandidate: yeah I am using the technology of react JS next chair\n\nInterviewer: Okay, so you're using React and Next.js (\"Next chair\" I'm assuming is a typo). Can you tell me a bit more about how you're structuring the application? For example, are you using any particular state management libraries with React, and how is Next.js helping with things like routing or API interactions for the real-time AI functionality?\n\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 2,
+    "strengths": [
+      {
+        "strength": "Enthusiasm for Software Engineering",
+        "example": "The candidate mentioned working on a real-time AI interview flow project, indicating an interest in applying software engineering principles."
+      },
+      {
+        "strength": "Willingness to Share Project Details",
+        "example": "The candidate attempted to describe the project they were working on when asked, demonstrating a willingness to engage with the interviewer."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Technical Communication",
+        "example": "The candidate's use of terms like \"actress next years no dress\" and \"next chair\" instead of Next.js highlights a significant lack of clarity and precision in technical communication."
+      },
+      {
+        "area": "Depth of Technical Knowledge",
+        "example": "The candidate's inability to articulate how React, Next.js, or any other technologies contribute to the real-time and AI aspects of the project suggests a limited understanding of these technologies."
+      },
+      {
+        "area": "Articulation of Project Structure",
+        "example": "The candidate's failure to answer the question about state management libraries and Next.js routing reveals a lack of understanding of fundamental application architecture concepts."
+      },
+      {
+        "area": "Active Listening",
+        "example": "There's a possibility that the candidate isn't fully understanding the questions being asked, contributing to the confusing and incomplete answers provided."
+      },
+      {
+        "area": "Preparation for Technical Interviews",
+        "example": "The candidate seems unprepared to discuss the technologies they are using or the structure of their project in a clear and concise manner, which is expected of entry-level candidates."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 1,
+      "analysis": "The candidate demonstrates a very limited understanding of fundamental web development technologies like React and Next.js. Their use of incorrect terminology and inability to explain project structure or technology choices indicate a significant gap in technical knowledge for an entry-level Software Engineer."
+    },
+    "communicationAssessment": {
+      "score": 1,
+      "analysis": "The candidate's communication skills are poor. Their responses are often unclear, use incorrect terminology, and lack sufficient detail. There is little evidence of effective listening skills or the ability to articulate technical concepts in a coherent manner."
+    },
+    "culturalFitAssessment": {
+      "score": 3,
+      "analysis": "It's difficult to assess cultural fit based on this brief interview snippet. While the candidate seems enthusiastic, their communication style and lack of technical understanding might pose challenges in a collaborative team environment that values clear and effective communication."
+    },
+    "problemSolvingAssessment": {
+      "score": 1,
+      "analysis": "The interview provides no evidence of problem-solving skills. The candidate struggles to even articulate the problem their project is addressing, let alone the solutions they are implementing."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "The use of \"actress next years no dress\" instead of Next.js.",
+        "impact": "This demonstrates a severe lack of understanding and attention to detail, raising concerns about the candidate's ability to accurately use and communicate about technical concepts."
+      },
+      {
+        "type": "negative",
+        "moment": "No answer provided to the question about state management and Next.js routing.",
+        "impact": "This suggests a lack of understanding of basic application architecture principles and the role of key technologies in building web applications."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for your interest in the Software Engineer role. While we appreciate you taking the time to interview, we've decided to move forward with other candidates whose qualifications and experience more closely align with the requirements of this position. Your enthusiasm for software engineering is evident, but there are some areas where you could improve your technical knowledge and communication skills. Specifically, focus on solidifying your understanding of fundamental web development technologies like React and Next.js, and practice articulating your technical thoughts and projects in a clear, concise, and accurate manner. Remember to pay close attention to the terminology and concepts you are using during technical discussions. Continued learning and focused practice will help you develop these skills and improve your performance in future interviews.",
+    "developmentPlan": [
+      "Complete a structured online course focused on React and Next.js, paying close attention to best practices and fundamental concepts.",
+      "Practice explaining your projects to others, focusing on clear and accurate technical communication. Seek feedback on your explanations.",
+      "Contribute to open-source projects to gain experience working with established codebases and collaborating with other developers."
+    ]
+  },
+  "timestamp": "2025-04-25T12:16:56.250Z"
+}

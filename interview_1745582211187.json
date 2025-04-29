@@ -1,0 +1,65 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Hi [Candidate Name], thanks for joining me today. How's your week been so far?\n",
+    "That's great to hear! Anything interesting you've been working on this week, either related to software engineering or just generally?\n",
+    "Okay, that's interesting. Could you tell me a bit more about one of those software engineering projects? What's the goal of the project, and what technologies are you using?\n"
+  ],
+  "answers": [
+    "abhi has been good so far",
+    "yeah this week I am working or different project of software engineer"
+  ],
+  "timestamps": [
+    "2025-04-25T11:54:18.645Z",
+    "2025-04-25T11:54:31.620Z",
+    "2025-04-25T11:54:53.113Z"
+  ],
+  "interviewStartTime": "2025-04-25T11:54:15.756Z",
+  "interviewEndTime": "2025-04-25T11:56:41.800Z",
+  "transcript": "Interview for Software Engineer (Entry-level level)\nDate: 2025-04-25T11:54:15.756Z\nDuration: 2.43 minutes\n\nInterviewer: Hi [Candidate Name], thanks for joining me today. How's your week been so far?\n\nCandidate: abhi has been good so far\n\nInterviewer: That's great to hear! Anything interesting you've been working on this week, either related to software engineering or just generally?\n\nCandidate: yeah this week I am working or different project of software engineer\n\nInterviewer: Okay, that's interesting. Could you tell me a bit more about one of those software engineering projects? What's the goal of the project, and what technologies are you using?\n\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 5,
+    "strengths": [
+      {
+        "strength": "Could not determine strengths",
+        "example": "N/A"
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Could not determine improvement areas",
+        "example": "N/A"
+      }
+    ],
+    "technicalAssessment": {
+      "score": 5,
+      "analysis": "Unable to generate technical assessment"
+    },
+    "communicationAssessment": {
+      "score": 5,
+      "analysis": "Unable to generate communication assessment"
+    },
+    "culturalFitAssessment": {
+      "score": 5,
+      "analysis": "Unable to generate cultural fit assessment"
+    },
+    "problemSolvingAssessment": {
+      "score": 5,
+      "analysis": "Unable to generate problem-solving assessment"
+    },
+    "standoutMoments": [
+      {
+        "type": "neutral",
+        "moment": "Unable to determine standout moments",
+        "impact": "N/A"
+      }
+    ],
+    "recommendation": "Consider",
+    "feedback": "Unable to generate detailed feedback",
+    "developmentPlan": [
+      "Unable to generate development plan"
+    ]
+  },
+  "timestamp": "2025-04-25T11:56:51.187Z"
+}
