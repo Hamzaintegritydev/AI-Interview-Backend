@@ -1,0 +1,74 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "\"What's a recent tech project you've worked on for fun or self-learning?\"",
+    "That sounds fascinating. Could you walk me through the main technologies and tools you utilized in building this AI interview flow website?",
+    "It seems there might have been some confusion in your response. Could you please clarify the technologies you are using? Are you perhaps referring to React and Next.js?",
+    "Interviewer: No worries at all. Now, could you share some of the biggest challenges you faced while implementing your project using React and Next.js, and how you overcame them?"
+  ],
+  "answers": [
+    "yeah working on AI interview flow website",
+    "yeah I am working on reaches and neck chase in my project",
+    "yeah right the react and exchange there is some issue in mic"
+  ],
+  "timestamps": [
+    "2025-04-29T19:42:27.567Z",
+    "2025-04-29T19:42:43.635Z",
+    "2025-04-29T19:43:07.384Z",
+    "2025-04-29T19:43:34.847Z"
+  ],
+  "interviewStartTime": "2025-04-29T19:42:22.885Z",
+  "interviewEndTime": "2025-04-29T19:44:17.388Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-04-29T19:42:22.885Z\nDuration: 1.91 minutes\n\nInterviewer: \"What's a recent tech project you've worked on for fun or self-learning?\"\nCandidate: yeah working on AI interview flow website\n\nInterviewer: That sounds fascinating. Could you walk me through the main technologies and tools you utilized in building this AI interview flow website?\nCandidate: yeah I am working on reaches and neck chase in my project\n\nInterviewer: It seems there might have been some confusion in your response. Could you please clarify the technologies you are using? Are you perhaps referring to React and Next.js?\nCandidate: yeah right the react and exchange there is some issue in mic\n\nInterviewer: Interviewer: No worries at all. Now, could you share some of the biggest challenges you faced while implementing your project using React and Next.js, and how you overcame them?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 4.8,
+    "strengths": [
+      {
+        "strength": "Self-started project",
+        "example": "Working on AI interview project"
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Clearer Communication",
+        "example": "Miscommunication about technologies used"
+      },
+      {
+        "area": "Completeness of Responses",
+        "example": "Did not provide answer to final question"
+      }
+    ],
+    "technicalAssessment": {
+      "score": 6,
+      "analysis": "The candidate has demonstrated that they are capable to work on complex technologies like React and Next.js but did not provide enough technical depth in their explanations."
+    },
+    "communicationAssessment": {
+      "score": 4.5,
+      "analysis": "Candidate needs to improve on clarity and completeness of their communication. Candidate confirmed some miscommunication due to issue with mic which implies good understanding when corrected."
+    },
+    "culturalFitAssessment": {
+      "score": 7,
+      "analysis": "Candidate seems promising since independently working on AI project indicates self-motivation, although more information is needed to fully evaluate cultural fit."
+    },
+    "problemSolvingAssessment": {
+      "score": 4,
+      "analysis": "Evaluation is incomplete due to lack of response from the candidate to the problem-solving question."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "Incomplete answer to a key question",
+        "impact": "Highlights potential lack of depth or ability to articulate complexity."
+      }
+    ],
+    "recommendation": "Consider",
+    "feedback": "The candidate has shown promise with self-initiative and tackled new technologies although there is room for improvement in terms of clear efficient communication and complete responses. Further in-depth questioning is required to determine if the candidate possesses the necessary problem-solving abilities.",
+    "developmentPlan": [
+      "Improvement of communication skills.",
+      "Practicing explaining technical applications and solutions.",
+      "Encourage to engage and display problem-solving abilities."
+    ]
+  },
+  "timestamp": "2025-04-29T19:44:41.939Z"
+}
