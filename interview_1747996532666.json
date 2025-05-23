@@ -1,0 +1,77 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Tell me about yourself and what inspired you to pursue a career in software engineering.",
+    "Can you tell me about a project you’ve worked on—either in school or on your own—that you’re particularly proud of? What technologies did you use?"
+  ],
+  "answers": [
+    "yeah hello hi I am the best of the engineer and I am very excited to do the stock engineer faith"
+  ],
+  "timestamps": [
+    "2025-05-23T10:34:49.448Z",
+    "2025-05-23T10:35:12.847Z"
+  ],
+  "interviewStartTime": "2025-05-23T10:34:46.117Z",
+  "interviewEndTime": "2025-05-23T10:35:21.569Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-05-23T10:34:46.117Z\nDuration: 0.59 minutes\n\nInterviewer: Tell me about yourself and what inspired you to pursue a career in software engineering.\nCandidate: yeah hello hi I am the best of the engineer and I am very excited to do the stock engineer faith\n\nInterviewer: Can you tell me about a project you’ve worked on—either in school or on your own—that you’re particularly proud of? What technologies did you use?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 10,
+    "strengths": [
+      {
+        "strength": "Enthusiasm",
+        "example": "The candidate expressed excitement for the software engineering role: 'I am very excited to do the stock engineer faith.'"
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Clarity of Communication",
+        "example": "Candidate’s introduction was difficult to understand and did not clearly convey background or motivation."
+      },
+      {
+        "area": "Technical Experience Description",
+        "example": "No projects or technologies were described, even when explicitly asked about a proud project."
+      },
+      {
+        "area": "Responsiveness",
+        "example": "Failed to answer the second question about project experience."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 5,
+      "analysis": "The interview did not provide any concrete technical information or examples. The candidate did not reference any technologies, skills, or relevant experiences."
+    },
+    "communicationAssessment": {
+      "score": 10,
+      "analysis": "The candidate struggled to convey ideas clearly and did not answer the questions directly. Sentences were incomplete or unclear, and there was a lack of structured response."
+    },
+    "culturalFitAssessment": {
+      "score": 10,
+      "analysis": "While the candidate expressed excitement, they did not demonstrate qualities indicating a fit with engineering team culture, such as collaboration, passion for learning, or basic professionalism."
+    },
+    "problemSolvingAssessment": {
+      "score": 5,
+      "analysis": "There was no evidence of problem-solving ability, as the candidate did not describe any projects, challenges, or approaches."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "Did not answer project/technology experience question.",
+        "impact": "Missed opportunity to demonstrate basic technical or team fit capabilities."
+      },
+      {
+        "type": "negative",
+        "moment": "Introduction was incoherent and did not address the question.",
+        "impact": "Raised concerns about ability to communicate effectively in a professional environment."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for your interest in the role and for expressing excitement about software engineering. However, your responses were unclear and did not directly answer the questions asked. To excel, it's important to communicate your background, experiences, and motivations more clearly, and to provide concrete examples of your skills. Consider practicing your interview responses, focusing on specific technical experiences and projects, and working on clear, structured communication.",
+    "developmentPlan": [
+      "Practice common interview questions, especially 'Tell me about yourself' and 'Describe a project you worked on.'",
+      "Prepare and rehearse clear examples of projects, including your role, technologies used, and outcomes.",
+      "Work on structured, professional communication for interviews by recording yourself or conducting mock interviews."
+    ]
+  },
+  "timestamp": "2025-05-23T10:35:32.666Z"
+}

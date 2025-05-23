@@ -1,0 +1,119 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Tell me about yourself and what inspired you to pursue a career in software engineering.",
+    "What aspects of computer science are you most passionate about, and how have you explored those interests during your studies?",
+    "Can you tell me about a coding project you've worked on, either in your coursework or as a personal project? What challenges did you face and how did you overcome them?",
+    "That sounds interesting! Can you tell me more about the technologies you used to build the registration form and why you chose them?",
+    "Can you walk me through how data flows through your registration form application, from when a user submits the form to when their information is saved in the database?",
+    "That’s great! Can you explain how you integrated the real-time scanner into your application? What role does it play in the registration process, and how did you handle the data it collects?",
+    "It sounds like you’ve used several technologies and integrations in your project. Can you describe any difficulties you encountered when connecting the scanner with your application, and how you went about troubleshooting or resolving those issues?",
+    "Thank you for clarifying that you used QR codes in your application. Can you walk me through how you generated and validated the QR codes for each user? What libraries or tools did you use for this, and how did you ensure the security and uniqueness of each QR code?",
+    "Can you share more details about the security challenges you faced while handling user data and QR codes, and what specific steps you took to address those concerns in your project?",
+    "How did you go about protecting sensitive user data in your application? Did you implement any encryption or authentication measures to prevent unauthorized access to the information linked to each QR code?",
+    "Can you describe which encryption method or library you used to protect the user data, and how you integrated it into your application workflow?"
+  ],
+  "answers": [
+    "yeah I am from computer science",
+    "basically I am start from computer science so the interest would be gain for software engineer lot of and I love to coding so that is my passion and I going to purchase",
+    "yeah I am created real time registration form because based on like candidate come and fill the form and enter his Entry on online forces in our in our Centre so I am using in this project lots of Technology",
+    "yeah I am using front and for exist and packet for node Jason Express Jazz and Momo dp for database and for PDF file download JS PDF third party package",
+    "sure that when the candidate then the form and submit the button the instruction would be saved in our PDF generates on candidate 5 to get in our centre and in this project I will also integrated real times scanner so you can scan our",
+    "yeah is this for I am using third party packages of JavaScript to use that is like candidates comes his form then we have scanner once can and then we approved it",
+    "in proper words this is not call scanner I think this is call for QR code like we have lots of QR code for registration so that's why I never in our sheet be user can come and except our QR code in our system so that we approve that he is our system and he is go to head",
+    "yeah with clay I am using JavaScript third party packages for QR code like of react you are for JavaScript so in this project I will very tight challenges for the security reason so that's why I am working on this project mode for security",
+    "basically when the QR code scans the user details this If in case there are we have leaked some QR code for user details with this so this is very dangerous for us that's why we are working on this",
+    "inscription for this to encrypt my data"
+  ],
+  "timestamps": [
+    "2025-04-30T14:26:40.276Z",
+    "2025-04-30T14:27:01.206Z",
+    "2025-04-30T14:27:23.988Z",
+    "2025-04-30T14:27:55.388Z",
+    "2025-04-30T14:28:22.120Z",
+    "2025-04-30T14:28:59.601Z",
+    "2025-04-30T14:29:33.373Z",
+    "2025-04-30T14:30:16.774Z",
+    "2025-04-30T14:30:56.565Z",
+    "2025-04-30T14:31:30.291Z",
+    "2025-04-30T14:31:53.192Z"
+  ],
+  "interviewStartTime": "2025-04-30T14:26:33.560Z",
+  "interviewEndTime": "2025-04-30T14:32:00.433Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-04-30T14:26:33.560Z\nDuration: 5.45 minutes\n\nInterviewer: Tell me about yourself and what inspired you to pursue a career in software engineering.\nCandidate: yeah I am from computer science\n\nInterviewer: What aspects of computer science are you most passionate about, and how have you explored those interests during your studies?\nCandidate: basically I am start from computer science so the interest would be gain for software engineer lot of and I love to coding so that is my passion and I going to purchase\n\nInterviewer: Can you tell me about a coding project you've worked on, either in your coursework or as a personal project? What challenges did you face and how did you overcome them?\nCandidate: yeah I am created real time registration form because based on like candidate come and fill the form and enter his Entry on online forces in our in our Centre so I am using in this project lots of Technology\n\nInterviewer: That sounds interesting! Can you tell me more about the technologies you used to build the registration form and why you chose them?\nCandidate: yeah I am using front and for exist and packet for node Jason Express Jazz and Momo dp for database and for PDF file download JS PDF third party package\n\nInterviewer: Can you walk me through how data flows through your registration form application, from when a user submits the form to when their information is saved in the database?\nCandidate: sure that when the candidate then the form and submit the button the instruction would be saved in our PDF generates on candidate 5 to get in our centre and in this project I will also integrated real times scanner so you can scan our\n\nInterviewer: That’s great! Can you explain how you integrated the real-time scanner into your application? What role does it play in the registration process, and how did you handle the data it collects?\nCandidate: yeah is this for I am using third party packages of JavaScript to use that is like candidates comes his form then we have scanner once can and then we approved it\n\nInterviewer: It sounds like you’ve used several technologies and integrations in your project. Can you describe any difficulties you encountered when connecting the scanner with your application, and how you went about troubleshooting or resolving those issues?\nCandidate: in proper words this is not call scanner I think this is call for QR code like we have lots of QR code for registration so that's why I never in our sheet be user can come and except our QR code in our system so that we approve that he is our system and he is go to head\n\nInterviewer: Thank you for clarifying that you used QR codes in your application. Can you walk me through how you generated and validated the QR codes for each user? What libraries or tools did you use for this, and how did you ensure the security and uniqueness of each QR code?\nCandidate: yeah with clay I am using JavaScript third party packages for QR code like of react you are for JavaScript so in this project I will very tight challenges for the security reason so that's why I am working on this project mode for security\n\nInterviewer: Can you share more details about the security challenges you faced while handling user data and QR codes, and what specific steps you took to address those concerns in your project?\nCandidate: basically when the QR code scans the user details this If in case there are we have leaked some QR code for user details with this so this is very dangerous for us that's why we are working on this\n\nInterviewer: How did you go about protecting sensitive user data in your application? Did you implement any encryption or authentication measures to prevent unauthorized access to the information linked to each QR code?\nCandidate: inscription for this to encrypt my data\n\nInterviewer: Can you describe which encryption method or library you used to protect the user data, and how you integrated it into your application workflow?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 2.5,
+    "strengths": [
+      {
+        "strength": "Has some practical project experience",
+        "example": "Described building a real-time registration form using Node.js, Express.js, MongoDB, and QR code generation for user identification."
+      },
+      {
+        "strength": "Awareness of security issues",
+        "example": "Candidate recognized that leaking QR codes could be dangerous and mentioned working on security measures for sensitive data."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Communication skills",
+        "example": "Answers were frequently unclear or incomplete, e.g., 'yeah I am from computer science' and trouble explaining technology choices or processes."
+      },
+      {
+        "area": "Technical depth and clarity",
+        "example": "Could not clearly articulate the data flow, explain how QR codes were validated or discuss implementation of encryption."
+      },
+      {
+        "area": "Detail in project discussion",
+        "example": "Missed opportunities to elaborate on technologies or library choices, such as not naming encryption methods or specific libraries used."
+      },
+      {
+        "area": "Command of English/fluency",
+        "example": "Frequent grammatical errors and fragmented sentences hindered understanding and effectiveness of communication."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 2,
+      "analysis": "The candidate demonstrated basic familiarity with web development stacks (Node.js, Express.js, MongoDB) and third-party packages for QR code and PDF generation. However, explanations were superficial and lacked detail on implementation or troubleshooting. The candidate was unable to clarify which encryption methods or libraries were used or how security was integrated, leaving doubts about the depth of their technical skills."
+    },
+    "communicationAssessment": {
+      "score": 1.5,
+      "analysis": "Communication throughout the interview was poor. The candidate struggled to clearly articulate thoughts, often using incomplete or confusing phrases. Answers lacked logical flow, and technical explanations were disorganized. This would likely hinder teamwork, knowledge sharing, and ability to work effectively in a professional software engineering environment."
+    },
+    "culturalFitAssessment": {
+      "score": 2.5,
+      "analysis": "The candidate expressed a passion for coding and showed some initiative in building projects beyond coursework. However, the inability to communicate clearly and the lack of detailed, thoughtful answers raise concerns about collaboration and learning potential in a team-oriented culture."
+    },
+    "problemSolvingAssessment": {
+      "score": 2,
+      "analysis": "The candidate was able to identify the security risk of leaking QR codes and described working toward a solution, but failed to concretely describe problem-solving approaches, debug strategies, or specific steps taken to resolve technical issues. Answers lacked details showing structured thinking or systematic troubleshooting."
+    },
+    "standoutMoments": [
+      {
+        "type": "positive",
+        "moment": "Candidate developed a real-time registration system integrating front-end, back-end, and QR code scanning.",
+        "impact": "Shows initiative in connecting multiple technologies and attempting a practical solution."
+      },
+      {
+        "type": "negative",
+        "moment": "Could not specify which encryption was used, in spite of repeatedly being asked about it.",
+        "impact": "Suggests lack of hands-on experience or awareness in critical security concepts."
+      },
+      {
+        "type": "negative",
+        "moment": "Frequently gave incomplete or unclear answers, with poor command of English.",
+        "impact": "May struggle to communicate technical concepts with team members or stakeholders."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for sharing your project experience and discussing the integration of multiple technologies. While your enthusiasm for software development is noted, your answers lacked the clarity and detail necessary for an entry-level engineering position. You struggled to explain your technical approach, especially concerning security and data flow, and communication barriers made it difficult to assess your understanding. Improving your ability to clearly describe projects, specify technologies used, and articulate your problem-solving process will greatly increase your chances in future interviews. More practice with technical English and targeted preparation will help you demonstrate your skills more effectively.",
+    "developmentPlan": [
+      "Practice describing project experiences using the STAR (Situation, Task, Action, Result) method to structure your answers.",
+      "Work on clear, concise communication in English, focusing on practicing technical terminology.",
+      "Deepen your understanding of technologies you've worked with—especially security basics such as encryption, authentication, and safe handling of user data.",
+      "Prepare specific examples of how you solved problems, what libraries you used, and why you selected them.",
+      "Participate in mock interviews or peer review sessions to gain feedback on communication and technical explanations."
+    ]
+  },
+  "timestamp": "2025-04-30T14:32:23.301Z"
+}

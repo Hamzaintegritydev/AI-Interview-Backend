@@ -1,0 +1,87 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Tell me about yourself and what inspired you to pursue a career in software engineering.",
+    "Can you share a specific project or experience where you built something using code? What did you learn from that experience?",
+    "That sounds interesting! Can you tell me more about the technologies and programming languages you used to create that registration form and generate the PDF?",
+    "Great! Can you walk me through how you handled form validation and error handling, both on the frontend and backend, in your registration form project?"
+  ],
+  "answers": [
+    "yeah I am very positive to develop this software engineering field so that's why I am going",
+    "basically I am create real time one form registration form so user can come and fill the form and can a part of any online portflight and using database and once the form is submit the PDF of Candidate should be saved in",
+    "sure I am using for front and the per second I am using Express JS and for PDF I am using JS PDF third party package"
+  ],
+  "timestamps": [
+    "2025-04-30T14:23:26.383Z",
+    "2025-04-30T14:23:46.114Z",
+    "2025-04-30T14:24:21.672Z",
+    "2025-04-30T14:24:50.727Z"
+  ],
+  "interviewStartTime": "2025-04-30T14:23:22.543Z",
+  "interviewEndTime": "2025-04-30T14:25:50.458Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-04-30T14:23:22.543Z\nDuration: 2.47 minutes\n\nInterviewer: Tell me about yourself and what inspired you to pursue a career in software engineering.\nCandidate: yeah I am very positive to develop this software engineering field so that's why I am going\n\nInterviewer: Can you share a specific project or experience where you built something using code? What did you learn from that experience?\nCandidate: basically I am create real time one form registration form so user can come and fill the form and can a part of any online portflight and using database and once the form is submit the PDF of Candidate should be saved in\n\nInterviewer: That sounds interesting! Can you tell me more about the technologies and programming languages you used to create that registration form and generate the PDF?\nCandidate: sure I am using for front and the per second I am using Express JS and for PDF I am using JS PDF third party package\n\nInterviewer: Great! Can you walk me through how you handled form validation and error handling, both on the frontend and backend, in your registration form project?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 2,
+    "strengths": [
+      {
+        "strength": "Project Initiative",
+        "example": "Candidate described building a real-time registration form that generates PDFs and interacts with a database."
+      },
+      {
+        "strength": "Basic Tech Stack Familiarity",
+        "example": "Candidate mentioned using Express.js for backend and JS PDF library for PDF generation."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Communication Clarity",
+        "example": "Responses were difficult to follow and grammatically incomplete; key points often unclear (e.g., 'I am create real time one form registration form')."
+      },
+      {
+        "area": "Depth of Technical Explanation",
+        "example": "Candidate did not provide details on form validation or error handling; answers lacked depth and completeness."
+      },
+      {
+        "area": "Responsiveness and Engagement",
+        "example": "Candidate gave no answer to the technical question about validation and error handling, missing an opportunity to demonstrate problem-solving skills."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 1,
+      "analysis": "The candidate showed basic familiarity with JavaScript, ExpressJS, and a third-party PDF library, but struggled to clearly articulate technical decisions or processes. No details were provided on core software engineering topics like validation, error handling, or logic flow."
+    },
+    "communicationAssessment": {
+      "score": 1,
+      "analysis": "Communication was fragmented, with frequent grammatical errors and incomplete thoughts. The candidate struggled to convey ideas clearly and could not fluently discuss their experience."
+    },
+    "culturalFitAssessment": {
+      "score": 2,
+      "analysis": "The candidate appeared eager and positive about entering the software engineering field, but did not demonstrate curiosity, collaboration, or learning drive typically desired for team environments."
+    },
+    "problemSolvingAssessment": {
+      "score": 1,
+      "analysis": "There was no evidence of structured problem solving. The candidate could not answer scenario-based or follow-up technical questions, failing to demonstrate an ability to break down or address engineering challenges."
+    },
+    "standoutMoments": [
+      {
+        "type": "positive",
+        "moment": "Described a registration form project with PDF functionality and database storage.",
+        "impact": "Shows initiative in building practical applications."
+      },
+      {
+        "type": "negative",
+        "moment": "No answer provided to a technical question about validation and error handling.",
+        "impact": "Missed an important opportunity to demonstrate technical depth and reasoning."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for interviewing with us. While you have started exploring web technologies and building practical applications, there are significant gaps in your ability to communicate technical concepts clearly and provide detailed explanations for your engineering decisions. For entry-level positions, we look for candidates who can articulate their process and show foundational strength in common tasks like validation and error handling. We encourage you to focus on deepening your technical understanding and practicing how to discuss your work clearly in interviews.",
+    "developmentPlan": [
+      "Practice explaining your projects in clear, concise language, focusing on technical choices and your reasoning.",
+      "Deepen your understanding of common web development tasks such as form validation, error handling, and backend logic.",
+      "Conduct mock interviews or present projects to peers to build confidence and fluency in communication."
+    ]
+  },
+  "timestamp": "2025-04-30T14:26:02.720Z"
+}

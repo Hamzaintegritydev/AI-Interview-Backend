@@ -1,0 +1,65 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Mid-level",
+  "questions": [
+    "Can you walk me through your resume and highlight the experiences that you feel best prepare you for this Software Engineer role?",
+    "Thanks for sharing those experiences. Could you tell me about a specific project where you faced a major technical challenge and how you overcame it?"
+  ],
+  "answers": [],
+  "timestamps": [
+    "2025-05-19T12:03:02.594Z",
+    "2025-05-19T12:03:25.318Z"
+  ],
+  "interviewStartTime": "2025-05-19T12:02:58.648Z",
+  "interviewEndTime": "2025-05-19T12:03:48.847Z",
+  "transcript": "Interview for Software Engineer (Mid-level)\nDate: 2025-05-19T12:02:58.648Z\nDuration: 0.63 minutes\n\nInterviewer: Can you walk me through your resume and highlight the experiences that you feel best prepare you for this Software Engineer role?\nCandidate: No answer provided\n\nInterviewer: Thanks for sharing those experiences. Could you tell me about a specific project where you faced a major technical challenge and how you overcame it?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 0,
+    "strengths": [],
+    "improvementAreas": [
+      {
+        "area": "Interview Engagement",
+        "example": "The candidate did not provide any responses to interview questions."
+      },
+      {
+        "area": "Communication Skills",
+        "example": "No verbal or written communication was demonstrated during the interview."
+      },
+      {
+        "area": "Technical Competency Display",
+        "example": "The candidate did not reveal any technical experiences or problem-solving approaches."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 0,
+      "analysis": "No information was provided by the candidate regarding technical skills, past projects, or relevant experiences. As a result, the candidate's technical competency could not be evaluated."
+    },
+    "communicationAssessment": {
+      "score": 0,
+      "analysis": "The candidate gave no answers, demonstrating little to no engagement or communication abilities during the interview."
+    },
+    "culturalFitAssessment": {
+      "score": 0,
+      "analysis": "Without any responses or personal insights, it is impossible to gauge the candidate’s potential fit with the company's values, team dynamic, or culture."
+    },
+    "problemSolvingAssessment": {
+      "score": 0,
+      "analysis": "The candidate did not discuss any technical challenges or problem-solving experiences. Therefore, their approach to tackling engineering problems remains unclear."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "No answers were provided to interview questions.",
+        "impact": "Unable to assess qualifications or suitability for the role."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for participating in the interview process. However, during the session, you did not provide answers to the questions posed, which made it impossible for us to evaluate your experiences, skills, and overall fit for the Software Engineer position. We encourage you to actively engage and share relevant experiences and technical expertise in future interviews, as this greatly improves your ability to showcase your qualifications to potential employers.",
+    "developmentPlan": [
+      "Practice answering common software engineering interview questions.",
+      "Prepare concise examples of past technical challenges and how you addressed them.",
+      "Work on improving interview communication skills to articulate your experiences and skills clearly."
+    ]
+  },
+  "timestamp": "2025-05-19T12:03:50.627Z"
+}

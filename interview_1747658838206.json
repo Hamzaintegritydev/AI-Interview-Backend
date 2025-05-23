@@ -1,0 +1,72 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Can you tell me a little bit about yourself and what inspired you to pursue a career in software engineering?",
+    "That's interesting! Could you tell me more about how your interest in software engineering connects to your interest in hair? Are there any projects or ideas you’ve worked on or thought about in this area?"
+  ],
+  "answers": [
+    "yeah I am interested in software engineer for hair"
+  ],
+  "timestamps": [
+    "2025-05-19T12:46:12.631Z",
+    "2025-05-19T12:46:35.036Z"
+  ],
+  "interviewStartTime": "2025-05-19T12:46:08.837Z",
+  "interviewEndTime": "2025-05-19T12:47:05.446Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-05-19T12:46:08.837Z\nDuration: 0.94 minutes\n\nInterviewer: Can you tell me a little bit about yourself and what inspired you to pursue a career in software engineering?\nCandidate: yeah I am interested in software engineer for hair\n\nInterviewer: That's interesting! Could you tell me more about how your interest in software engineering connects to your interest in hair? Are there any projects or ideas you’ve worked on or thought about in this area?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 1,
+    "strengths": [
+      {
+        "strength": "Interest in Software Engineering",
+        "example": "Candidate expressed an interest in software engineering, specifically in its application to hair."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Detail and Depth",
+        "example": "Candidate did not provide any substantial detail about their background, skills, or motivations."
+      },
+      {
+        "area": "Project Experience",
+        "example": "Candidate could not elaborate on any projects or ideas, even when prompted."
+      },
+      {
+        "area": "Communication Skills",
+        "example": "Candidate gave a very brief answer and did not engage with follow-up questions."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 1,
+      "analysis": "No technical knowledge or experience was demonstrated in the interview. The candidate did not share any relevant skills, coursework, or projects."
+    },
+    "communicationAssessment": {
+      "score": 1,
+      "analysis": "The candidate provided very little information, and did not attempt to explain their interests or answer follow-up questions. This limited the ability to assess their communication skills."
+    },
+    "culturalFitAssessment": {
+      "score": 1,
+      "analysis": "Due to the lack of engagement and minimal responses, it is not possible to evaluate the candidate's potential fit for the team or company culture."
+    },
+    "problemSolvingAssessment": {
+      "score": 1,
+      "analysis": "No problem-solving ability was displayed. The candidate did not share any thought process, examples, or solutions."
+    },
+    "standoutMoments": [
+      {
+        "type": "negative",
+        "moment": "No answer provided to a follow-up question about project experience.",
+        "impact": "Shows potential lack of preparation or interest."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for interviewing with us. At this time, we could not proceed based on the responses provided. For future interviews, we recommend preparing examples of your relevant skills, experiences, and motivations. It's helpful to elaborate on how your interests align with the position and to engage actively with follow-up questions. This allows interviewers to better understand how your background fits the role.",
+    "developmentPlan": [
+      "Prepare a personal introduction that highlights your background, motivations, and interests.",
+      "Develop and practice talking about any projects or experiences related to software engineering, even if they are academic or personal projects.",
+      "Work on communicating ideas clearly and answering follow-up questions in detail."
+    ]
+  },
+  "timestamp": "2025-05-19T12:47:18.206Z"
+}

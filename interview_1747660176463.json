@@ -1,0 +1,110 @@
+{
+  "jobPosition": "Software Engineer",
+  "experienceLevel": "Entry-level",
+  "questions": [
+    "Can you walk me through your resume and highlight the experiences that have prepared you for this entry-level software engineering position?",
+    "Great, thanks for sharing that. Can you tell me more about a specific project you worked on during that year—what was your role, and what technologies did you use?",
+    "That sounds interesting! Can you describe a specific challenge you faced while building that real-time interview flow project, and how you went about solving it?",
+    "You mentioned working with real-time features in your project—can you explain how you handled data synchronization between users, and which tools or libraries you used to implement it?",
+    "That’s an interesting flow. Can you walk me through how you ensured the security and privacy of user data—particularly resumes—during the upload and AI processing steps? What measures or libraries did you use to protect sensitive information?",
+    "Thanks for explaining your approach to security. Can you tell me more about how you implemented JWT authentication in your project, and how you handled token validation on both the frontend and backend?",
+    "Thank you for describing your JWT implementation. You mentioned having separate dashboards for admins and regular users—could you explain how you implemented role-based access control in your application? What checks did you use on the backend to ensure users only access the parts of the app they're authorized for?",
+    "Thanks for clarifying that. Could you walk me through the folder structure or organization of your project—how did you separate concerns like authentication, API routes, and frontend components?",
+    "No problem! Let’s talk about testing. How did you ensure that the key features in your application—like authentication and the real-time interview flow—work correctly? Did you use any testing frameworks or write any unit or integration tests?",
+    "Great, thanks for sharing your testing approach. Can you give an example of a specific test case you wrote—what functionality were you testing, and how did the test help you catch or prevent bugs in your code?"
+  ],
+  "answers": [
+    "yeah hello I am the sofa engineer and I have one year of experience in this field",
+    "yah basically my role is for front and I am using react a next chair for package Express chair not chairs Mongolia Express the technology in my project and I will also create real time a interview flowways project",
+    "yeah in this project I have lot of issues but I will solve the issues because I have used open router for this and something like that come in my project so I will good for me",
+    "shareit my interview section the candidate first comes at upload his resume then it's detail then we give you then we give the API and I will create an FBI when the interview start the API should be for plan data gives to Ai then AI questions regarding is resume and what about his experience I will create basically when one two API for this and connect with the AI and pass the from and also",
+    "yah basically we use the jwt and other things for invented my code and I have use much more protection in my project of like the data has been not the readable for anyone",
+    "yeah sure I have implemented JW token authentication based on front and the user come once sign up or login that token will be saved in my duty in the cookie the token will be safe so the and first or you can sign up then API should call one prepare should call the back guy in the copy section the JW taken should be saved as the JW token should be safe jwp authentication is successful for the admin we use separate dashboard for admin so the permission is true when the admin permission is for then that it is a client this is the formal formula we use for it",
+    "Yadu we have food I got so we can check if the permission is true so it is the admin if the permission is false are user and then other thing is this I will pass the header header admin then its admin pass than blind poets",
+    "sorry next question I will not able to answer this question",
+    "yeah basically for testing I will use reac library test for this and other I will create the whole components with text names so the unit test will be testing on whole components when I couldn't the code in my terminal the whole test it should be shown in that is fast or it is filled why he is filled so why he is passed all details are come"
+  ],
+  "timestamps": [
+    "2025-05-19T13:02:21.286Z",
+    "2025-05-19T13:02:51.577Z",
+    "2025-05-19T13:03:28.928Z",
+    "2025-05-19T13:04:01.960Z",
+    "2025-05-19T13:04:52.885Z",
+    "2025-05-19T13:05:35.675Z",
+    "2025-05-19T13:06:40.209Z",
+    "2025-05-19T13:07:27.577Z",
+    "2025-05-19T13:07:58.432Z",
+    "2025-05-19T13:08:45.442Z"
+  ],
+  "interviewStartTime": "2025-05-19T13:02:16.092Z",
+  "interviewEndTime": "2025-05-19T13:09:15.194Z",
+  "transcript": "Interview for Software Engineer (Entry-level)\nDate: 2025-05-19T13:02:16.092Z\nDuration: 6.99 minutes\n\nInterviewer: Can you walk me through your resume and highlight the experiences that have prepared you for this entry-level software engineering position?\nCandidate: yeah hello I am the sofa engineer and I have one year of experience in this field\n\nInterviewer: Great, thanks for sharing that. Can you tell me more about a specific project you worked on during that year—what was your role, and what technologies did you use?\nCandidate: yah basically my role is for front and I am using react a next chair for package Express chair not chairs Mongolia Express the technology in my project and I will also create real time a interview flowways project\n\nInterviewer: That sounds interesting! Can you describe a specific challenge you faced while building that real-time interview flow project, and how you went about solving it?\nCandidate: yeah in this project I have lot of issues but I will solve the issues because I have used open router for this and something like that come in my project so I will good for me\n\nInterviewer: You mentioned working with real-time features in your project—can you explain how you handled data synchronization between users, and which tools or libraries you used to implement it?\nCandidate: shareit my interview section the candidate first comes at upload his resume then it's detail then we give you then we give the API and I will create an FBI when the interview start the API should be for plan data gives to Ai then AI questions regarding is resume and what about his experience I will create basically when one two API for this and connect with the AI and pass the from and also\n\nInterviewer: That’s an interesting flow. Can you walk me through how you ensured the security and privacy of user data—particularly resumes—during the upload and AI processing steps? What measures or libraries did you use to protect sensitive information?\nCandidate: yah basically we use the jwt and other things for invented my code and I have use much more protection in my project of like the data has been not the readable for anyone\n\nInterviewer: Thanks for explaining your approach to security. Can you tell me more about how you implemented JWT authentication in your project, and how you handled token validation on both the frontend and backend?\nCandidate: yeah sure I have implemented JW token authentication based on front and the user come once sign up or login that token will be saved in my duty in the cookie the token will be safe so the and first or you can sign up then API should call one prepare should call the back guy in the copy section the JW taken should be saved as the JW token should be safe jwp authentication is successful for the admin we use separate dashboard for admin so the permission is true when the admin permission is for then that it is a client this is the formal formula we use for it\n\nInterviewer: Thank you for describing your JWT implementation. You mentioned having separate dashboards for admins and regular users—could you explain how you implemented role-based access control in your application? What checks did you use on the backend to ensure users only access the parts of the app they're authorized for?\nCandidate: Yadu we have food I got so we can check if the permission is true so it is the admin if the permission is false are user and then other thing is this I will pass the header header admin then its admin pass than blind poets\n\nInterviewer: Thanks for clarifying that. Could you walk me through the folder structure or organization of your project—how did you separate concerns like authentication, API routes, and frontend components?\nCandidate: sorry next question I will not able to answer this question\n\nInterviewer: No problem! Let’s talk about testing. How did you ensure that the key features in your application—like authentication and the real-time interview flow—work correctly? Did you use any testing frameworks or write any unit or integration tests?\nCandidate: yeah basically for testing I will use reac library test for this and other I will create the whole components with text names so the unit test will be testing on whole components when I couldn't the code in my terminal the whole test it should be shown in that is fast or it is filled why he is filled so why he is passed all details are come\n\nInterviewer: Great, thanks for sharing your testing approach. Can you give an example of a specific test case you wrote—what functionality were you testing, and how did the test help you catch or prevent bugs in your code?\nCandidate: No answer provided\n\n",
+  "evaluation": {
+    "score": 2.5,
+    "strengths": [
+      {
+        "strength": "Basic Understanding of Key Technologies",
+        "example": "Candidate mentioned use of React, Next.js, Express, MongoDB, and JWT authentication, indicating familiarity with a common modern tech stack."
+      },
+      {
+        "strength": "Awareness of Security Concepts",
+        "example": "Candidate referenced implementing JWT-based authentication and considering security and privacy of user data."
+      }
+    ],
+    "improvementAreas": [
+      {
+        "area": "Clarity in Technical Explanations",
+        "example": "Answers about the real-time data synchronization and JWT implementation were disorganized and unclear, making it difficult to assess technical depth."
+      },
+      {
+        "area": "Foundational Software Engineering Concepts",
+        "example": "Candidate struggled or declined to answer about project folder structure and separation of concerns, indicating a gap in architectural understanding."
+      },
+      {
+        "area": "Communication Skills",
+        "example": "The responses were often unclear, with poor grammar, incomplete thoughts, and hard-to-follow logic."
+      }
+    ],
+    "technicalAssessment": {
+      "score": 2,
+      "analysis": "Candidate demonstrated limited hands-on experience with relevant technologies (React, Next.js, Express, MongoDB, JWT), but struggled to provide systematic, clear answers about project architecture, backend/frontend integration, real-time data handling, or testing. Unable to articulate specific solutions or give detailed examples of test cases, architecture, or problem-solving approaches."
+    },
+    "communicationAssessment": {
+      "score": 2,
+      "analysis": "Communication was a significant weakness: Answers lacked structure and detail, and poor English proficiency hampered understanding. Key questions went unanswered or were responded to with vague or incomplete statements, making it challenging to evaluate competence."
+    },
+    "culturalFitAssessment": {
+      "score": 3,
+      "analysis": "Candidate demonstrated some willingness to attempt answers and showed basic professionalism in the interview. However, limited engagement, a declined technical question, and the lack of elaboration suggest cultural integration and willingness to learn may be moderate but not outstanding."
+    },
+    "problemSolvingAssessment": {
+      "score": 2,
+      "analysis": "Candidate referenced encountering issues and solving them but failed to give concrete examples or detailed walk-throughs of the process. The absence of specificity weakens confidence in their practical problem-solving skills."
+    },
+    "standoutMoments": [
+      {
+        "type": "positive",
+        "moment": "Attempted to explain JWT authentication and mention separation of admin and user permissions.",
+        "impact": "Shows baseline awareness of industry norms around authentication and authorization."
+      },
+      {
+        "type": "negative",
+        "moment": "Unable to answer basic question about folder structure/organization.",
+        "impact": "Raises red flags about hands-on experience and readiness for entry-level software engineering."
+      },
+      {
+        "type": "negative",
+        "moment": "Frequently gave disorganized or barely intelligible responses.",
+        "impact": "Seriously hinders team integration, knowledge sharing, and ability to be mentored."
+      }
+    ],
+    "recommendation": "Reject",
+    "feedback": "Thank you for interviewing for the entry-level Software Engineer position. You demonstrated a basic understanding of some relevant technologies, such as React, Next.js, Express, MongoDB, and JWT authentication, and you are aware of the importance of security. However, the interview highlighted areas that require significant development. Your technical explanations were often unclear and lacked key details, and there were notable communication challenges that could hinder your effectiveness in a team environment. To strengthen your candidacy in the future, work on improving your English communication, practice structuring technical explanations, and gain deeper hands-on experience with software engineering fundamentals, especially project organization, architecture, and testing best practices.",
+    "developmentPlan": [
+      "Improve English language and communication skills, focusing on clear and structured technical explanations.",
+      "Build and document a complete full-stack project, practicing proper folder organization, separation of concerns, and code documentation.",
+      "Develop and describe concrete test cases for core features (authentication, real-time flows); learn to use testing frameworks (such as React Testing Library or Jest) in depth."
+    ]
+  },
+  "timestamp": "2025-05-19T13:09:36.463Z"
+}
